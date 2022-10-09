@@ -8,4 +8,4 @@ As a team we first started together with getting used to the API and how to use 
 
 ## View it live
 
-https://tourmaline-sable-678f53.netlify.app/
+https://vocal-cendol-51491c.netlify.app
